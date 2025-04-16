@@ -1,0 +1,9 @@
+com.example.android.autopair
+pl.rfbenchmark.rfbenchmark
+com.android.chrome
+com.android.phone
+com.android.vending
+com.svox.pico
+com.hellbeaver380.cwmpredboxclient
+com.example.android.usbbt
+com.softwinner.update
